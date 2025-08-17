@@ -26,7 +26,15 @@ I'm passionate about web development and currently focused on mastering the **ME
 
 ---
 
-Let's Connect:
-- [LinkedIn](https://linkedin.com/in/rahul-panchal28)
-- [Twitter](https://x.com/rahulasync)
+
+## 📬 Let's Connect
+
+<p align="left">
+  <a href="https://twitter.com/rahulaync" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-panchal28" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
 
