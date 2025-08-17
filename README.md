@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Im-Rahul-Panchal/Im-Rahul-Panchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my GitHub Profile
 
-Here are some ideas to get you started:
+Hi, I'm Rahul! I'm an aspiring full-stack developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm passionate about web development and currently focused on mastering the **MERN stack** (MongoDB, Express.js, React, Node.js).
+
+## 🛠️ Technologies I Use
+- HTML, CSS, JavaScript
+- React, Node.js, Express, MongoDB
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rahul-Panchal&show_icons=true&count_private=true)
+
+---
+
+Let's Connect:
+- [LinkedIn](linkedin.com/in/rahul-panchal28)
+- [Twitter](x.com/rahulasync)
+
