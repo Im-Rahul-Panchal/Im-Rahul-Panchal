@@ -17,6 +17,6 @@ I'm passionate about web development and currently focused on mastering the **ME
 ---
 
 Let's Connect:
-- [LinkedIn]([wwwlinkedin.com/in/rahul-panchal28)
-- [Twitter](www.x.com/rahulasync)
+- [LinkedIn](https://linkedin.com/in/rahul-panchal28)
+- [Twitter](https://x.com/rahulasync)
 
