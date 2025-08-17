@@ -8,12 +8,16 @@ Hi, I'm Rahul! I'm an aspiring full-stack developer
 I'm passionate about web development and currently focused on mastering the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 ## 🛠️ Technologies I Use
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-  <!-- Add other tech icons here -->
-</p>
-
+  ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+  ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg)
+  ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+  ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
+  ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+  ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
+  ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)
+  ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg)
+  ![SQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+  
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rahul-Panchal&show_icons=true&count_private=true)
