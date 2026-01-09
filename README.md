@@ -31,8 +31,8 @@
 
 | Project | Description | Tech |
 |-------|------------|------|
-| **Shadval Finance** | Digital loan service platform | MERN |
-| **Portfolio Website** | Personal developer portfolio | React, Tailwind |
+| **Shadval Finance** | Digital loan service platform | React, Node.js , ASP.Net (MVC) |
+| **BookStore Website** | Various Books Collection | React, Tailwind |
 | **API Hub** | REST APIs with auth & security | Node, Express |
 
 > 🔹 *More projects coming soon…*
