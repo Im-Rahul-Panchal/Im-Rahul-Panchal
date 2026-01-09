@@ -22,7 +22,7 @@ I'm passionate about web development and currently focused on mastering the **ME
 </p>
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rahul-Panchal&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Im-Rahul-Panchal&show_icons=true&theme=tokyonight)
 
 ---
 
