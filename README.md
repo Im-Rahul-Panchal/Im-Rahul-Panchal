@@ -1,51 +1,73 @@
 <h1 align="center">Hi 👋, I'm Rahul Panchal</h1>
-<h3 align="center">Aspiring Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  🚀 Building modern web apps • 💻 Learning every day • 🌱 Growing with code
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;MERN+Stack+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Im-Rahul-Panchal&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🔥 Passionate about **Web Development**
-- 🧠 Currently mastering the **MERN Stack**
-- ⚡ Love building **clean UI & scalable backend**
-- 🎯 Goal: Become a **professional full-stack developer**
+- 💻 Aspiring **Full-Stack Developer**
+- 🚀 Focused on **MERN Stack**
+- 🧠 Learning scalable backend & clean frontend
+- 🎯 Goal: Work as a **professional software developer**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nodejs,express,mongodb,nextjs,mysql,git,github" />
 </p>
 
 ---
 
-## 🌐 Let's Connect
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|-------|------------|------|
+| **Shadval Finance** | Digital loan service platform | MERN |
+| **Portfolio Website** | Personal developer portfolio | React, Tailwind |
+| **API Hub** | REST APIs with auth & security | Node, Express |
+
+> 🔹 *More projects coming soon…*
+
+---
+
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <a href="https://twitter.com/rahulasync" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Im-Rahul-Panchal&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Rahul-Panchal&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://twitter.com/rahulasync">
+    <img src="https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rahul-panchal28" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  <a href="https://www.linkedin.com/in/rahul-panchal28">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider following me!
+  ⚡ “Code. Learn. Improve. Repeat.”  
 </p>
