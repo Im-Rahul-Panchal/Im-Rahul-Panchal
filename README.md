@@ -26,17 +26,30 @@
 
 # 🛠️ Tech Stack
 
-### 🌐 Frontend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" /> </p>
+<!-- Frontend -->
+<h3 align="left">🌐 Frontend Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs" />
+</p>
 
-### ⚙️ Backend Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /> </p>
+<!-- Backend -->
+<h3 align="right">⚙️ Backend Development</h3>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
-### 📱 Mobile App Development
-<p align="left"> <img src="https://skillicons.dev/icons?i=react,flutter,dart" /> </p>
+<!-- Mobile App Development -->
+<h3 align="left">📱 Mobile App Development</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+</p>
 
-### 🧰 Tools & Technologies
-<p align="left"> <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase" /> </p>
+<!-- Tools & Technologies -->
+<h3 align="right">🧰 Tools & Technologies</h3>
+<p align="right">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,firebase" />
+</p>
+
 
 # 🚀 Projects
 
@@ -51,7 +64,10 @@
 > 🔹 *More projects coming soon…*
 
 # 📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Im-Rahul-Panchal&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Rahul-Panchal&theme=tokyonight&hide_border=true" /> </p>
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Im-Rahul-Panchal&show_icons=true&theme=radical&hide_border=false&count_private=true" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-Rahul-Panchal&theme=tokyonight" />
+</p>
 
 # 📈 Contribution Graph
 <p align="left"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Im-Rahul-Panchal&theme=github-dark&hide_border=true" /> </p>
